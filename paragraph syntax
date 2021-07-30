@@ -1,0 +1,21 @@
+<! Doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>my first paragraph</title>
+</head>
+<body>
+<h1>Heading1</h1>
+<p>
+this is first paragraph
+</p>
+<p>
+second paragraph and paragram start with new line by default
+</p><p>
+3rd paragraph we can break the line ie is we can go to next line by using br / tag like<br />hello in third para i am in new line <br/ > again in new line
+</p>
+
+</body>
+
+</html>
